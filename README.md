@@ -1,1 +1,2 @@
-# Responsive-website-using-php-and-bootstrap
+We have built our website in php, and used bootstrap for making it a responsive website so that it can dynamically adjusts to the proper screen resolution. For style we used CSS provided by bootstrap and implement the classes as per our requirement. Data is stored in MySQL database and is retrieved through Ajax and jQuery. Validations have been implemented either by JavaScript or bootstrap in built functionalities.
+Therefore, the main aim of this tool is to help people connect givers and receivers,like gumtree website.
